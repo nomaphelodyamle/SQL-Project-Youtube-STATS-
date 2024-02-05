@@ -1,1 +1,1 @@
-# SQL-Project-Youtube-STATS-
+The project is focusing on analyzing youtubersbehaviour and trends based on their views, uploads and percentage by continents and coutry. The database was filtered based on thier continent when viewed.
